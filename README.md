@@ -1,2 +1,2 @@
 # Visual-Drawing
-C++ program based on MFC
+This is a C++ program based on MFC.
